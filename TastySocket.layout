@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="TastyClient.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="231" topLine="0" />
+	</File>
+	<File name="TastyClient.h" open="1" top="0" tabpos="2">
+		<Cursor position="256" topLine="0" />
+	</File>
+	<File name="TastyMessage.h" open="1" top="0" tabpos="3">
+		<Cursor position="374" topLine="0" />
+	</File>
+	<File name="TastyServer.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="353" topLine="0" />
+	</File>
+	<File name="TastyServer.h" open="1" top="0" tabpos="4">
+		<Cursor position="694" topLine="0" />
+	</File>
+	<File name="TastySocket.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="4316" topLine="102" />
+	</File>
+	<File name="TastySocket.h" open="1" top="0" tabpos="5">
+		<Cursor position="662" topLine="0" />
+	</File>
+	<File name="TastyStream.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="177" topLine="0" />
+	</File>
+	<File name="TastyStream.h" open="1" top="1" tabpos="6">
+		<Cursor position="783" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
